@@ -1,0 +1,1 @@
+### [Ссылка на задание на платформе SkillFactory](https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+MIFIML-2sem+2025/block-v1:SkillFactory+MIFIML-2sem+2025+type@sequential+block@020482f3604e41fe8fcc9bbbcb86d098/block-v1:SkillFactory+MIFIML-2sem+2025+type@vertical+block@7af18ffe0dc0497bbc789c15bb82102a)
