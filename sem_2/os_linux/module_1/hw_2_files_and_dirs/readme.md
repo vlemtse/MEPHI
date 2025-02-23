@@ -1,0 +1,1 @@
+### Ссылка на гугл документ - [ТУТ](https://docs.google.com/document/d/1YRC9lXppWHvy1CftRm4GFnAU1Qk0bR0cz_ltExMRLyQ/edit)
